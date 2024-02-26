@@ -1,5 +1,17 @@
+<<<<<<< HEAD
 alom 
 rashid 
 jolil 
 jalal 
 
+=======
+===============
+|| alom   || comilla
+===============
+|| rashid ||  dinajpur
+===============
+|| jolil  || dhaka 
+=============== 
+|| jalal  || sylhet 
+===============
+>>>>>>> table-version
